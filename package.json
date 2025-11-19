@@ -1,0 +1,28 @@
+{
+  "name": "ttl-typescript-to-luau",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chokidar": "^4.0.3",
+    "readdirp": "^4.1.2",
+    "typescript": "^5.9.3",
+    "undici-types": "^7.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Typescript-To-Luau/typescript-to-luau.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Typescript-To-Luau/typescript-to-luau/issues"
+  },
+  "homepage": "https://github.com/Typescript-To-Luau/typescript-to-luau#readme"
+}
